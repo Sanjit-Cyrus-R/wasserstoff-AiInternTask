@@ -2,6 +2,8 @@
 ## Objective
 Develop a pipeline using transformers or deep learning models that processes an input image to segment, identify, and analyze objects within the image, and outputs a summary table with mapped data for each object.
 
+## Video Presentation
+Check out video presentation here [video](https://youtu.be/8nX9C5VBYto)
 ## Note
 For quickstart of the project refer [AI_pipeline_for_image_ipynb](https://github.com/Sanjit-Cyrus-R/wasserstoff-AiInternTask/blob/main/AI_pipeline_for_image.ipynb). More details on this file given after project Explanation
 
